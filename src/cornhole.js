@@ -1,5 +1,3 @@
-const readlineSync = require("readline-sync")
-
 const length = 48;
 const width = 24;
 const diameter = 6
