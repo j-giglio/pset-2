@@ -1,6 +1,6 @@
 const readlineSync = require("readline-sync")
 
-const stu = Number(readlineSync.question("Students: "))
+const stu = Number(readlineSync.question("\nStudents: "))
 const teach = Number(readlineSync.question("Teachers: "))
 const capacity = Number(readlineSync.question("Bus capacity: "))
 
